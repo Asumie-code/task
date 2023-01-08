@@ -4,7 +4,7 @@ function App() {
     <div className="App">
       <h1>repo for coding tasks</h1>
       <p>this page is for coding tasks requested by clients. with automatic deploymenet of tasks </p> 
-      <p>testing deploymenet</p>
+      <p>testing deploymenet 2</p>
     </div>
   );
 }
